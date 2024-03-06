@@ -1,0 +1,13 @@
+# dependencies
+/node_modules
+package-lock.json
+#output
+test-output/
+junit.xml
+# misc
+.idea
+.env
+npm-debug.log*
+/.vs
+.gitignore
+.vscode/settings.json

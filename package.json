@@ -1,0 +1,16 @@
+{
+  "name": "automation-demo2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test --project=chromium --workers=1"
+  },
+  "keywords": [],
+  "author": "Nancy Graf",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.42.0",
+    "@types/node": "^20.11.22"
+  }
+}

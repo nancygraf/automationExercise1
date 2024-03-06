@@ -1,0 +1,21 @@
+module.exports={
+    userName:"maria" ,
+    userEmail: "micorreo@micorreo.com",
+    title: "ms",
+    password: "micontraseña",
+    day: "19",
+    month: "January",
+    year: "1983",
+    check1:'check1',
+    check2:'check2',
+    name: 'Maria',
+    lastName:'Marias',
+    company:'compania',
+    address:'calle 2',
+    address2:'calle 3',
+    country:'United States',
+    state:'madrid',
+    city:'madrid',
+    zipCode:'28903',
+    mobileNumber:'689689689'
+}
